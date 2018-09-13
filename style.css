@@ -1,0 +1,5 @@
+img {
+    clip-path: circle(50%);
+    shape-outside: circle(50%);
+    float: left;
+}
